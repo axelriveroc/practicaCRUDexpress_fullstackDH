@@ -1,0 +1,15 @@
+[
+ {
+  "id": 1,
+  "nombre": "Camisa Cuadrille",
+  "precio": 551,
+  "imagen": "img-1675034602715.jpg"
+ },
+ {
+  "id": 2,
+  "nombreProducto": "frutilla",
+  "precio": "32132",
+  "imagen": ""
+ }
+]
+
